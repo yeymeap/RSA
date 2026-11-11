@@ -1,7 +1,7 @@
 ﻿using System.Buffers.Binary;
 using System.Numerics;
 
-namespace RSA;
+namespace MyCrypto;
 
 public class SHA256
 {

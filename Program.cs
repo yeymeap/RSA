@@ -1,4 +1,4 @@
-﻿using RSA;
+﻿using MyCrypto;
 
 byte[] data = "Hello World!"u8.ToArray();
 
